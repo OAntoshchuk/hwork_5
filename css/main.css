@@ -1,0 +1,83 @@
+
+
+.chekIt{
+	width: 100px;
+	height: 60px;
+	background-color: red;
+	position: relative;
+	top:50px;
+	left:50px;
+}
+
+.chekIt1{
+	width: 200px;
+	height: 200px;
+	background: green;
+	position: absolute;
+	top:  150px;
+	left: 350px;
+	z-index: 1;
+}
+
+.chekIt12{
+	width: 100px;
+	height: 100px;
+	background:yellow;
+	position: absolute;
+	bottom: -100px;
+	right: -100px;
+}
+
+.chekIt13{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	background:red;
+	bottom: -50px;
+	right: -50px;
+}
+
+.chekIt14{
+	width: 100px;
+	height: 100px;
+	background:yellow;
+	position: absolute;
+	bottom: 0px;
+	left:  -300px;
+}
+
+.chekIt15{
+	width: 100px;
+	height: 100px;
+	background:blue;
+	position: absolute;
+	bottom: 0px;
+	left:  -150px;
+}
+
+.chekIt16{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	background:red;
+	bottom: -50px;
+	left: -200px;
+}
+
+.chekIt17{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	background:red;
+	bottom: -50px;
+	left: -50px;
+}
+
+.chekIt18{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	background:red;
+	bottom: -50px;
+	left: -350px;
+}
